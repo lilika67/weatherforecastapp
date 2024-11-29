@@ -87,10 +87,3 @@ Handling rate limits
 Minimizing unnecessary API calls
 Ensuring app performance and responsiveness
 
-## License
-
-This project is open-source and available under the MIT License. See the LICENSE file for more details.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
