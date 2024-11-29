@@ -64,20 +64,7 @@ A reusable method to create structured weather detail rows with icons and text.
 - Gradient overlays for text readability
 - Responsive layout using MediaQuery
 
-## How to Use
 
-1. Set up WeatherProvider
-2. Navigate between screens using `Navigator.push()`
-3. Weather data automatically fetches and displays
-
-### Example Navigation
-
-```dart
-Navigator.push(
-  context,
-  MaterialPageRoute(builder: (context) => WeatherDetailsScreen()),
-);
-```
 ### Challenges
 
 Integrating with external weather APIs like OpenWeatherMap presented several challenges:
