@@ -4,6 +4,10 @@
 
 This Weather App provides users with real-time weather data, including temperature, humidity, wind speed, and weather descriptions. Built with Flutter and using the Provider package for state management, the app offers a sleek and responsive design with multiple screens for different weather-related views.
 
+## Source of api used
+
+https://openweathermap.org/api
+
 ## Features
 
 - **Current Weather Screen**: Displays current weather for user's location or selected city
@@ -70,7 +74,10 @@ A reusable method to create structured weather detail rows with icons and text.
 Integrating with external weather APIs like OpenWeatherMap presented several challenges:
 
 Managing API keys securely
+
 Handling rate limits
+
 Minimizing unnecessary API calls
+
 Ensuring app performance and responsiveness
 
